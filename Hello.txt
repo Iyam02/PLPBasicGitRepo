@@ -1,2 +1,11 @@
 Hello !!
 This task is a basic introduction to the Git and GitHub workflow, emphasizing repository creation, local setup, making changes, committing, and pushing to GitHub.
+
+Steps followed:
+    1. Navigated to my github repository and created a new repo named "PLPBasicGitRepo"
+    2. Cloned the repo in my terminal with the "git clone https://github.com/Iyam02/PLPBasicGitRepo.git" command
+    3. Add a "Hello.txt" file
+    4. Staged he changes using "git add . " command
+    5. Committed the changes using "git commit -m "Add Hello.txt with a greeting"
+    6. Then pushed the committed changes to the github repository using "git push -u origin main" command.
+    
